@@ -1,0 +1,34 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências
+node_modules/
+bower_components/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de documentação temporários
+DOCUMENTACAO_TECNICA_PORTFOLIO.html
+gerar_pdf.py
+gerar_pdf_wkhtmltopdf.py
+INSTRUCOES_PDF.md
