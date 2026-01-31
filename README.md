@@ -188,3 +188,17 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 *Desenvolvido com ❤️ por Sharlles Andersonn*
+
+## 🧑‍🏫 Experiência Profissional
+
+### AWS Technical Trainer
+**Escola da Nuvem**  
+*Janeiro - Atual*  
+
+- Aulas técnicas em Cloud Computing (AWS), capacitando alunos desde os fundamentos de nuvem até a utilização prática dos principais serviços e arquiteturas da AWS.
+- Condução de atividades práticas (hands-on) e laboratórios, orientando os alunos no provisionamento, configuração e gerenciamento de recursos AWS, garantindo autonomia técnica e consolidação do aprendizado.
+- Aplicação de avaliações e desafios técnicos semanais, com foco na validação da retenção de conteúdo, identificação de dificuldades e reforço dos principais conceitos abordados.
+- Execução de simulados direcionados à certificação AWS, acompanhando o desempenho dos alunos e orientando estratégias para melhoria dos resultados na prova.
+- Acompanhamento contínuo da evolução dos alunos, oferecendo suporte, esclarecendo dúvidas e promovendo boas práticas no uso dos serviços AWS.
+- Coleta e análise de feedbacks dos alunos, identificando oportunidades de melhoria no processo de ensino-aprendizagem e contribuindo para a evolução do conteúdo e da metodologia aplicada.
+- Organização e registro das atividades acadêmicas, avaliações e interações, garantindo acompanhamento estruturado do progresso dos alunos e eficiência na condução das turmas.
