@@ -699,6 +699,17 @@ body::before {
     box-shadow: 0 8px 25px rgba(0, 136, 204, 0.4);
 }
 
+.discord-button {
+    background: linear-gradient(135deg, #5865F2 0%, #404EED 100%);
+    color: var(--light-color);
+    box-shadow: 0 4px 15px rgba(88, 101, 242, 0.3);
+}
+
+.discord-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(88, 101, 242, 0.45);
+}
+
 /* Rodapé */
 footer {
     text-align: center;
