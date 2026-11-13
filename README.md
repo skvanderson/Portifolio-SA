@@ -64,6 +64,7 @@ portifolio/
 ├── img/
 │   ├── perfil.jpg          # Foto de perfil
 │   └── badges/             # Certificações AWS
+│       ├── aws-certified-devops-engineer-professional.png
 │       ├── arquiteto.png
 │       ├── cloud-practitioner.png
 │       ├── develop.png
@@ -175,6 +176,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🏆 Certificações
 
+- **AWS Certified DevOps Engineer – Professional** — [Validar no Credly](https://www.credly.com/badges/8fcf9f0c-9b17-417d-930c-e10763cef527/public_url)
 - **AWS Certified Solutions Architect – Associate**
 - **AWS Certified Developer – Associate** 
 - **AWS Certified Cloud Practitioner**
